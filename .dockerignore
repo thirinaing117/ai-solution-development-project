@@ -1,0 +1,12 @@
+.git
+.gitignore
+.ipynb_checkpoints
+__pycache__
+*.pyc
+.venv
+venv
+output
+*.pdf
+simplified_eda.ipynb
+Dockerfile
+.dockerignore
